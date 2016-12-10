@@ -6,6 +6,7 @@ public class First_pgrm {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Nov batch");
+		System.out.println("Welcome");
 
 	}
 
